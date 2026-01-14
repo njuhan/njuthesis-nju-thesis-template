@@ -1,3 +1,5 @@
+# Deprecated!!! 项目已停止维护！！！
+## **该模板已停止维护！请校友们使用NJUTEX的官方模板。**
 # NJU-Thesis
 
 本项目提供了一个用于排版南京大学学位论文的LaTeX模板。该模板基于校友[Haixing-Hu的模板](https://github.com/Haixing-Hu/nju-thesis)，修复了若干Bug，增加和优化了一些功能细节。可根据文档注释说明，将本模板修改为本科/硕士/博士学位论文模板。
